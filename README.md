@@ -36,7 +36,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | September 28 | Neuron | Doc.ai's Blockchain-Enabled Natural Language Processing Platform For Quantified Biology | Ethereum | [Link](https://tokensale.doc.ai) | | [Link](https://www.reddit.com/r/doc_ai/) | [Link](https://twitter.com/_doc_ai) |
 | October 2 | Decision Token | Democratic tools for the 21st century | Ethereum | [Link](https://horizonstate.com/) |  | [Link](https://www.reddit.com/r/horizonstate/) | [Link](https://twitter.com/HorizonState) |
 | October 2 | RefToken | Making the blockchain mainstream, one block at a time | Ethereum | [Link](https://reftoken.io/) |  | [Link](https://www.reddit.com/r/RefToken/) | [Link](https://twitter.com/reftoken) |
-| October 3 | Auctus | Smart contract powered pension funds | Ethereum | [Link](https://auctus.org/) | [Link](https://join.slack.com/t/auctus-project/shared_invite/MjM5NTU3NTI5OTA5LTE1MDUxNTkxMjgtZWI2MDY3MGMxNQ) | [Link](https://www.reddit.com/r/AuctusProject/) | [Link](https://twitter.com/AuctusProject) |
+| October 3 | Auctus (presale) | Smart contract powered pension funds | Ethereum | [Link](https://auctus.org/) | [Link](https://join.slack.com/t/auctus-project/shared_invite/MjM5NTU3NTI5OTA5LTE1MDUxNTkxMjgtZWI2MDY3MGMxNQ) | [Link](https://www.reddit.com/r/AuctusProject/) | [Link](https://twitter.com/AuctusProject) |
 | November 8 | FintruX | Enables borrowers to create their own fully customized and simplified smart contracts with no code for every contract | Ethereum | [Link](https://www.fintrux.com) | [Link](https://gitter.im/FintruX/ICO-Discussion) | [Link](https://www.reddit.com/r/FintruX/) | [Link](https://twitter.com/FintruX) |
 
 ## Coming Soon
