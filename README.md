@@ -38,4 +38,5 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit | Twitter
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Coming Soon | Impendit | The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
-| Q4  | eTardis  | Software Distribution Re-Imagined | Ethereum | [Link](http://etardis.com/) | | [Link](https://www.reddit.com/user/etardis_eth/)|[Link](https://twitter.com/etardis_eth)
+| Q4  | eTardis  | Software Distribution Re-Imagined | Ethereum | [Link](http://etardis.com/) | | [Link](https://www.reddit.com/user/etardis_eth/)|[Link](https://twitter.com/etardis_eth) |
+|Q4 | Loci | Platform for identifying and publishing new IP discoveries to the blockchain | Ethereum | [Link](https://locipro.com/) | [Link](https://loci-innvenn.herokuapp.com/) | [Link](https://www.reddit.com/r/loci_io/) | [Link](https://www.twitter.com/loci_io) |
