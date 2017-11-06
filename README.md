@@ -35,6 +35,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | October 30 | Swarm Market Nectar (NCT) | The first decentralized threat intelligence market | Ethereum | [Link](https://swarm.market) |  | [Link](https://www.reddit.com/r/swarmmarket/) | [Link](https://twitter.com/swarmdotmarket) |
 | November 1 | ScriptDrop | The Adherence (AHC) Token allows for patients to provision access to their data and buy down their prescription co-pay. | Ethereum | [Link](https://www.scriptdrop.io) | [Link](https://scriptdrop-inviter.herokuapp.com/) | | [Link](https://twitter.com/ScriptDrop) |
 | November 8 | FintruX | Enables borrowers to create their own fully customized and simplified smart contracts with no code for every contract | Ethereum | [Link](https://www.fintrux.com) | [Link](https://gitter.im/FintruX/ICO-Discussion) | [Link](https://www.reddit.com/r/FintruX/) | [Link](https://twitter.com/FintruX) |
+| November 30 | Debitum | Leveraging Blockchain technology to secure and distribute fiat investments to the SME world. Decentralized, accessible, and fair. | Ethereum | [Link](https://debitum.network) | [Link](https://t.me/joinchat/G6KFmURKsu0FIfJetJ3mOA) | [Link](https://www.reddit.com/user/DebitumNetwork) | [Link](https://twitter.com/DebitumNetwork) |
 
 ## Coming Soon
 
