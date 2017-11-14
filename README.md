@@ -38,6 +38,8 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | November 1 | ScriptDrop | The Adherence (AHC) Token allows for patients to provision access to their data and buy down their prescription co-pay. | Ethereum | [Link](https://www.scriptdrop.io) | [Link](https://scriptdrop-inviter.herokuapp.com/) | | [Link](https://twitter.com/ScriptDrop) |
 | November 7 | Lordmancer II (Lord Coin) | Lordmancer II is a mobile free-to-play massively multiplayer online RPG that allows players to mine cryptocurrency and spend it both inside and outside of the game. | Ethereum | [Link](http://www.lordmancer2.io) | [Link](https://t.me/lm2ico) | [Link](https://www.reddit.com/r/icocrypto/comments/6r44bk/new_ico_lordmancer_ii_the_first_mobile_mmo_rpg/ ) | [Link](https://twitter.com/LordmancerI ) |
 | November 8 | FintruX | Enables borrowers to create their own fully customized and simplified smart contracts with no code for every contract | Ethereum | [Link](https://www.fintrux.com) | [Link](https://gitter.im/FintruX/ICO-Discussion) | [Link](https://www.reddit.com/r/FintruX/) | [Link](https://twitter.com/FintruX) |
+| November 10 | Arker | Arker is the first RPG online video game that rewards the user with a cryptocurrency. | Waves | [Link](https://arker.io/) | [Link](https://join.slack.com/t/arkerofficial/shared_invite/enQtMjU3MzUyNjU4OTYzLTAyNWUxOTQyN2FjNzBiNzZjYTlmOGQwMjVmODAyMjhiZTFjZmZjMmJlM2RmNzY3YjZlOWY4MTVkYTUzZWI1ZTU) | | [Link](https://twitter.com/ArkerCommunity) |
+
 
 ## Coming Soon
 
